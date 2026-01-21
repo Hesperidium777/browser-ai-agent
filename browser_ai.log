@@ -1,0 +1,64 @@
+2026-01-21 19:32:03,396 - __main__ - INFO - Инициализация AI агента браузера...
+2026-01-21 19:32:03,397 - __main__ - INFO - Подключение к Ollama (llama3.2:3b)...
+2026-01-21 19:32:07,416 - __main__ - INFO - Ollama подключена успешно: Здравствуйте! Как я могу вам...
+2026-01-21 19:32:07,416 - __main__ - INFO - Запуск браузера...
+2026-01-21 19:32:07,431 - WDM - INFO - ====== WebDriver manager ======
+2026-01-21 19:32:07,951 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 19:32:08,348 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 19:32:08,648 - WDM - INFO - There is no [win64] chromedriver "144.0.7559.96" for browser google-chrome "144.0.7559" in cache
+2026-01-21 19:32:08,648 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 19:32:09,425 - WDM - INFO - WebDriver version 144.0.7559.96 selected
+2026-01-21 19:32:09,429 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.96/win32/chromedriver-win32.zip
+2026-01-21 19:32:09,429 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.96/win32/chromedriver-win32.zip
+2026-01-21 19:32:09,652 - WDM - INFO - Driver downloading response is 200
+2026-01-21 19:32:09,909 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 19:32:10,275 - WDM - INFO - Driver has been saved in cache [C:\Users\Hesp\.wdm\drivers\chromedriver\win64\144.0.7559.96]
+2026-01-21 19:32:13,249 - browser.controller - ERROR - Ошибка при запуске браузера: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7b7d13
+	0x7b7d54
+	0x5db290
+	0x61070b
+	0x60b8f0
+	0x65459f
+	0x653db7
+	0x647d56
+	0x6194d9
+	0x61a294
+	0xa2bb64
+	0xa27215
+	0xa43fad
+	0x7d1ef8
+	0x7d9b0d
+	0x7c0738
+	0x7c0902
+	0x7aa1da
+	0x771afcc9
+	0x777882ae
+	0x7778827e
+
+2026-01-21 19:32:18,368 - browser.controller - ERROR - Ошибка при запуске браузера (вторая попытка): Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7e1b75715
+	0x7ff7e1b75770
+	0x7ff7e192108d
+	0x7ff7e1961bb4
+	0x7ff7e195d0e9
+	0x7ff7e19b4171
+	0x7ff7e19b39d6
+	0x7ff7e196cc28
+	0x7ff7e196db33
+	0x7ff7e1e5e9f0
+	0x7ff7e1e58ded
+	0x7ff7e1e7969a
+	0x7ff7e1b911e5
+	0x7ff7e1b999cc
+	0x7ff7e1b7ebf4
+	0x7ff7e1b7eda6
+	0x7ff7e1b64e87
+	0x7fffc7b57374
+	0x7fffc905cc91
+
+2026-01-21 19:32:26,522 - __main__ - ERROR - Не удалось запустить браузер

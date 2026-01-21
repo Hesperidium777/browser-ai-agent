@@ -1,0 +1,138 @@
+{
+  "task": "Найди рецепт пиццы",
+  "start_time": "2026-01-21T19:58:09.313278",
+  "end_time": "2026-01-21T19:59:36.534266",
+  "steps": 10,
+  "history": [
+    {
+      "step": 1,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:58:09.313278"
+    },
+    {
+      "step": 2,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:58:14.697556"
+    },
+    {
+      "step": 3,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:58:20.325854"
+    },
+    {
+      "step": 4,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:58:30.210897"
+    },
+    {
+      "step": 5,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:58:40.005093"
+    },
+    {
+      "step": 6,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:58:49.648077"
+    },
+    {
+      "step": 7,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:58:59.609618"
+    },
+    {
+      "step": 8,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:59:09.396049"
+    },
+    {
+      "step": 9,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:59:19.595095"
+    },
+    {
+      "step": 10,
+      "action": {
+        "action": "type_сearch",
+        "description": "Использовать поиск на текущей странице",
+        "parameters": {}
+      },
+      "result": {
+        "success": false,
+        "error": "Неизвестное действие: type_сearch"
+      },
+      "timestamp": "2026-01-21T19:59:29.787357"
+    }
+  ]
+}
